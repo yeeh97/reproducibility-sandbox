@@ -2,12 +2,12 @@
 Acute Myeloid Leukemia Heatmap
 ==============================
 
-Overview
+## Overview
 --------
 
 This project involves creating a heatmap for an Acute Myeloid Leukemia (AML) sample dataset sourced from [Shih et al., 2017](https://pubmed.ncbi.nlm.nih.gov/28193779/), pre-processed by [refinebio](https://www.refine.bio/). The dataset contains RNA-sequencing results for different types of AML under controlled treatment conditions. The goal is to visualize the gene expression patterns in the AML samples using a clustering heatmap.
 
-Prerequisites
+### Prerequisites
 -------------
 
 1.  RStudio: You can download it from [here](https://rstudio.com/products/rstudio/download/).
